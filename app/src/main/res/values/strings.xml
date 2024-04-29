@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MenuChev2</string>
+    <string name="podmen">Подменю</string>
+    <string name="popup_menu_item_3">Popup menu item 3</string>
+    <string name="popup_menu_item_2">Popup menu item 2</string>
+    <string name="popup_menu_item_1">Popup menu item 1</string>
+    <string name="popup_menu_item_4">Popup menu item 4</string>
+    <string name="popup_menu_item_5">Popup menu item 5</string>
+    <string name="popup_menu_item_6">Popup menu item 6</string>
+    <string name="btntext">Нажми</string>
+    <string name="popup_menutext">Работа с PopUp Menu</string>
+    <string name="lightyellow">LightYellow</string>
+    <string name="yellow">Yellow</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="medium">Средний</string>
+    <string name="large">Большой</string>
+    <string name="small">Маленький</string>
+</resources>
